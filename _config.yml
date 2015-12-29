@@ -22,7 +22,7 @@ color:
     - '#897751'
     - '#acac93'
     - '#3f3c06'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
