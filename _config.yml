@@ -1,0 +1,29 @@
+name: Irena Mandel
+favicon: null
+layout_spectrum: 0.2182497784961015
+typography_spectrum: 0.22986568557098508
+title: Irena Mandel
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.26337268808856606
+  lightness: 0.5637833478394896
+  saturation: 0.05714202462695539
+  rhythmicContrast: 0.07370404386892915
+purpose: []
